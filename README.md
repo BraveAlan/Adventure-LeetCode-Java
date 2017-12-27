@@ -12,9 +12,6 @@
 | 1 | [Two Sum][001] | Array, Hash Table |
 
 
-
-
-
 ## <span id="Medium">Medium</span>
 
 | #  |              Title               |               Tags              |
@@ -23,7 +20,6 @@
 | 15 | [3Sum][015]                      | Array, Two Pointers             |
 | 16 | [3Sum Closet][016]               | Array, Two Pointers             |
 | 18 | [4Sum][018]                      | Array, Hash Table, Two Pointers |
-|    |                                  |                                 |
 
 
 ## <span id="Hard">Hard</span>
