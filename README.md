@@ -1,20 +1,21 @@
 # Adventure-LeetCode-Java
 
 ## Tags
-- Easy
-- Medium
-- Hard
+- [Easy](#Easy)
+- [Medium](#Medium)
+- [Hard](#Hard)
 
-## Easy
+## <span id="Easy">Easy</span>
 
-| #  |               Title                | Tags |
-|----|------------------------------------|------------|
-|  1 | [Two Sum][001]                     | Array, Hash Table      |
-
-
+| # |     Title      |        Tags       |
+|---|----------------|-------------------|
+| 1 | [Two Sum][001] | Array, Hash Table |
 
 
-## Medium
+
+
+
+## <span id="Medium">Medium</span>
 
 | #  |              Title               |               Tags              |
 |----|----------------------------------|---------------------------------|
@@ -25,11 +26,11 @@
 |    |                                  |                                 |
 
 
-## Hard
+## <span id="Hard">Hard</span>
 
-| #  |               Title                | Tags |
-|----|------------------------------------|------------|
-|  4 | [Median of Two Sorted Arrays][004] | Array, Binary Search, Divide and Conquer |
+| # |               Title                |                   Tags                   |
+|---|------------------------------------|------------------------------------------|
+| 4 | [Median of Two Sorted Arrays][004] | Array, Binary Search, Divide and Conquer |
 
 
 
