@@ -22,6 +22,7 @@
 |  3 | [Longest Substring Without Repeating Characters][003] | Hash Table, Two Pointers, String |
 |  5 | [Longest Palindromic Substring][005]                  | String                           |
 |  6 | [ZigZag Conversion][006]                              | String                           |
+|  8 | [String to Integer (atoi)][008]                       | Math, String                     |
 | 11 | [Container With Most Water][011]                      | Array, Two Pointers              |
 | 15 | [3Sum][015]                                           | Array, Two Pointers              |
 | 16 | [3Sum Closet][016]                                    | Array, Two Pointers              |
@@ -43,10 +44,12 @@
 [005]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/5.%20Longest%20Palindromic%20Substring.md
 [006]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/6.%20ZigZag%20Conversion.md
 [007]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Easy/7.%20Reverse%20Integer.md
+[008]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/8.%20String%20to%20Integer%20(atoi).md
 [011]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/11.%20Container%20With%20Most%20Water.md
 [015]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/15.%203Sum.md
 [016]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/16.%203Sum%20Closest.md
 [018]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/18.%204Sum.md
+
 
 
 
