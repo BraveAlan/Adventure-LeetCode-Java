@@ -7,11 +7,12 @@
 
 ## <span id="Easy">Easy</span>
 
-| # |         Title          |        Tags       |
-|---|------------------------|-------------------|
-| 1 | [Two Sum][001]         | Array, Hash Table |
-| 7 | [Reverse Integer][007] | Math              |
-|   |                        |                   |
+| # |          Title           |        Tags       |
+|---|--------------------------|-------------------|
+| 1 | [Two Sum][001]           | Array, Hash Table |
+| 7 | [Reverse Integer][007]   | Math              |
+| 9 | [Palindrome Number][009] | Math              |
+|   |                          |                   |
 
 
 ## <span id="Medium">Medium</span>
@@ -45,10 +46,12 @@
 [006]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/6.%20ZigZag%20Conversion.md
 [007]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Easy/7.%20Reverse%20Integer.md
 [008]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/8.%20String%20to%20Integer%20(atoi).md
+[009]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Easy/9.%20Palindrome%20Number.md
 [011]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/11.%20Container%20With%20Most%20Water.md
 [015]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/15.%203Sum.md
 [016]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/16.%203Sum%20Closest.md
 [018]: https://github.com/BraveAlan/Adventure-LeetCode-Java/blob/master/Medium/18.%204Sum.md
+
 
 
 
